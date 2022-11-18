@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    align-items: center;
+}
+body {
+    background-image: url(../HTML\ тренинг/img/1-5.JPG);
+    height: auto;
+    background-color: cadetblue;
+
+}
+.avatar {
+    border: 1px black solid ;
+    padding: 3px;
+    width: auto;
+    height: 200px;
+    margin: 0 0 0 20px;
+}
+.avatar2 {
+    image-orientation: from-image;
+    display: flex;
+    order: 1;
+    margin: 20px 20px 20px 20px;
+    padding: 2px;
+    width: auto;
+    text-align: center;
+    border: 10px black solid;
+    size: auto;
+
+}
+.odin {
+    display: flex;
+    flex-flow: column;
+    order: 1;
+    float: left;
+    align-items: center;
+}
+hr {
+    align-items: flex-end;
+}
+#С1 {
+    float: left;
+}
